@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26667" started-at="2019-04-15T13:18:12Z" finished-at="2019-04-15T13:18:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26667" started-at="2019-04-15T13:18:12Z" finished-at="2019-04-15T13:18:38Z">
+      <class name="pnew_functionalities.findsuite_testclass">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:pnew_functionalities.findsuite_testclass@15d0c81b]" name="launchBrowser" is-config="true" duration-ms="6488" started-at="2019-04-15T13:18:12Z" finished-at="2019-04-15T13:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="excuteTest()[pri:0, instance:pnew_functionalities.findsuite_testclass@15d0c81b]" name="excuteTest" duration-ms="20171" started-at="2019-04-15T13:18:18Z" finished-at="2019-04-15T13:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excuteTest -->
+      </class> <!-- pnew_functionalities.findsuite_testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
